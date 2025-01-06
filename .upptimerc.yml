@@ -8,6 +8,7 @@ sites:
     url: https://api.omegatheme.com/quote-snap/backend/server.php/api/status/mysql
   - name: API Health Status
     url: https://api.omegatheme.com/quote-snap/backend/server.php/api
+    
 status-website:
   baseUrl: /quote-snap-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -17,8 +18,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
