@@ -45,19 +45,19 @@
     "url": "https://api.omegatheme.com/quote-snap/backend/server.php/api",
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "api-health-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 85,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 80,
+    "timeDay": 76,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2025-01-10": 0
+      "2025-01-10": 11
     }
   }
 ]
