@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "redis-service-status",
     "status": "up",
-    "uptime": "97.04%",
+    "uptime": "97.08%",
     "uptimeDay": "96.09%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "97.04%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 655,
     "timeDay": 1823,
     "timeWeek": 655,
@@ -47,17 +47,19 @@
     "url": "https://api.omegatheme.com/quote-snap/backend/server.php/api",
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "api-health-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 96,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
-    "dailyMinutesDown": {}
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
+    "dailyMinutesDown": {
+      "2025-01-11": 0
+    }
   }
 ]
