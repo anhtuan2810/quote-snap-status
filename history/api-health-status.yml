@@ -1,7 +1,7 @@
 url: https://api.omegatheme.com/quote-snap/backend/server.php/api
-status: down
-code: 502
-responseTime: 91
-lastUpdated: 2025-03-13T08:40:25.445Z
+status: up
+code: 200
+responseTime: 100
+lastUpdated: 2025-03-13T08:57:33.429Z
 startTime: 2025-01-06T08:50:15.686Z
 generator: Upptime <https://github.com/upptime/upptime>
