@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "redis-service-status",
     "status": "down",
-    "uptime": "24.71%",
+    "uptime": "24.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 258,
-    "timeDay": 275,
-    "timeWeek": 163,
-    "timeMonth": 162,
-    "timeYear": 189,
+    "timeDay": 242,
+    "timeWeek": 192,
+    "timeMonth": 167,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2026-05-22": 241,
+      "2026-05-23": 218,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -379,8 +380,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "my-sql-service-status",
     "status": "down",
-    "uptime": "24.83%",
+    "uptime": "24.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 82,
-    "timeDay": 260,
-    "timeWeek": 145,
-    "timeMonth": 95,
-    "timeYear": 60,
+    "timeDay": 95,
+    "timeWeek": 153,
+    "timeMonth": 97,
+    "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-05-22": 241,
+      "2026-05-23": 218,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -763,8 +764,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "api-health-status",
     "status": "down",
-    "uptime": "24.94%",
+    "uptime": "24.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 83,
-    "timeDay": 127,
-    "timeWeek": 76,
-    "timeMonth": 72,
+    "timeDay": 104,
+    "timeWeek": 85,
+    "timeMonth": 74,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2026-05-22": 241,
+      "2026-05-23": 218,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1147,8 +1148,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   }
 ]
