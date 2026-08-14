@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "redis-service-status",
     "status": "down",
-    "uptime": "21.20%",
+    "uptime": "21.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 186,
-    "timeDay": 218,
-    "timeWeek": 152,
-    "timeMonth": 179,
+    "time": 185,
+    "timeDay": 103,
+    "timeWeek": 126,
+    "timeMonth": 181,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2026-08-13": 134,
+      "2026-08-14": 131,
+      "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -379,8 +380,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2025-08-15": 1440,
-      "2025-08-14": 1440
+      "2025-08-15": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "my-sql-service-status",
     "status": "down",
-    "uptime": "21.31%",
+    "uptime": "21.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 72,
-    "timeDay": 221,
-    "timeWeek": 160,
+    "timeDay": 109,
+    "timeWeek": 136,
     "timeMonth": 159,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2026-08-13": 134,
+      "2026-08-14": 131,
+      "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -763,8 +764,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2025-08-15": 1440,
-      "2025-08-14": 1440
+      "2025-08-15": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.omegatheme.com.ico",
     "slug": "api-health-status",
     "status": "down",
-    "uptime": "21.39%",
+    "uptime": "21.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 87,
-    "timeDay": 224,
-    "timeWeek": 162,
-    "timeMonth": 183,
+    "timeDay": 81,
+    "timeWeek": 128,
+    "timeMonth": 182,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2026-08-13": 134,
+      "2026-08-14": 131,
+      "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -1147,8 +1148,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2025-08-15": 1440,
-      "2025-08-14": 1440
+      "2025-08-15": 1440
     }
   }
 ]
